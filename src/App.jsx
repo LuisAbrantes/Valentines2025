@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { FaHeart } from 'react-icons/fa';
-import photo1 from './assets/photos/photo1.jpg';
+import photo1 from './assets/photos/photo1.JPG';
 import photo2 from './assets/photos/photo2.jpg';
 import photo3 from './assets/photos/photo3.jpg';
 import photo4 from './assets/photos/photo4.jpg';
